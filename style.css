@@ -950,6 +950,7 @@ html,body {
     gap: 20px;
     text-decoration: none;
     color: #fff;
+    line-height: 2;
   }
   .social a h3{
     font-weight: 300;
